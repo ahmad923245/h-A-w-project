@@ -1,0 +1,21 @@
+*{
+    margin: 6px;
+    padding: 0px;
+
+}
+.searchbar{
+    height: 40px;
+    width: 590px;
+    border-radius: 6px;
+    
+}
+.searchbar:focus{
+   z-index: 3;
+}
+#btnpost{
+    margin-left: 100px;
+    
+}
+.img-profile{
+    height: 30px;
+}
